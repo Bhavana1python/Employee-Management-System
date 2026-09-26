@@ -6,6 +6,7 @@ The application allows users to enter and store employee details such as:
         Employee Salary
         Employee Designation
 Employee records are stored permanently using Python's Pickle module. Before saving a new employee, the application checks whether the employee number already exists.
+
 Technologies Used:
 -----------------
         Python
